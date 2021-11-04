@@ -63,7 +63,7 @@ function fill(clicked_id){
             }
             else
             {
-                document.getElementById("texto").innerHTML = "YOU TIE!";
+                document.getElementById("texto").innerHTML = "YOU TIED!";
                 document.getElementById("reply").style.display = "block";
             }
         }
